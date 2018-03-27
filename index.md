@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+Proposal
 
-You can use the [editor on GitHub](https://github.com/wfx5003/itrip/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+1.Project Description- What is the high-level idea of your project? This should be similar to your daily log submission (but could have changed).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+For the project, it is to build a tourism guiding, sharing, and posting system. On the website, people sharing their trips. Also, users can look for some advice for their trip. The system can analyze the information that users put in and organize their preference to build a customized tourism guide.
 
-### Markdown
+2.Project Design- lower-level description.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+a.What technologies will you use, how will they integrate?
 
-```markdown
-Syntax highlighted code block
+I will use Spring MVC to build the event listener and event handler, and SQL server management for storing the users' data and information. Also, I may use some existing data and API.
 
-# Header 1
-## Header 2
-### Header 3
+b. What are the project’s use cases?
 
-- Bulleted
-- List
+On the website, people sharing their trips. Users can follow the existing guide. Also, users can look for some advice for their trip. The system can analyze the information that users put in and organize their preference to build a customized tourism guide. For example, the user input location:"New York", Food:"Asian Food", Interest:"Museum", the system can organize and make the tour guide match his preference.
 
-1. Numbered
-2. List
+c. Any other design docs that are necessary for me to understand your project
 
-**Bold** and _Italic_ and `Code` text
+It is similar to the TripAdvisor or Yelp.
 
-[Link](url) and ![Image](src)
-```
+3.Project Schedule- what will you have done at each checkpoint? What will the final project look like?
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+The first checkpoint: finish build the frame structure for the project, like the homepage and UI.
 
-### Jekyll Themes
+The second checkpoint: create specific functionality and debug.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wfx5003/itrip/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Final project: a complete tourism guiding, sharing, and posting system.
 
-### Support or Contact
+4.Project Justification - why is your project interesting?
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+a. Novelty - why is your project different than existing applications, and why should people use it?
+
+In my project, the user can share their own experience of the trip and post or ask their trip guide. The most difference to the existing applications is that my project can be customized and make everyone difference tourism guides for their own with the different preference. It is more user-friendly and users can have a unique experience for their trips.
+
+b. Complexity - why is this project a good showcase of your abilities?
+
+This project needs to integrate coding skills with Java Spring MVC, SQL data basement, HTML and web design which is a good showcase of my abilities with these.
