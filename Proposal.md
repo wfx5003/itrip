@@ -8,7 +8,7 @@ For the project, it is to build a tourism guiding, sharing, and posting system. 
 
 a.What technologies will you use, how will they integrate?
 
-I will use Spring MVC to build the event listener and event handler, and SQL server management for storing the users' data and information. Also, I may use some existing data and API.
+I will use Spring MVC to build the event listener and event handler, and SQL server management for storing the users' data and information. Also, I may use some existing data and API. Such as Google map API and Yelp API to get the city data and resturant information.
 
 b. What are the project’s use cases?
 
@@ -20,9 +20,10 @@ It is similar to the TripAdvisor or Yelp.
 
 3.Project Schedule- what will you have done at each checkpoint? What will the final project look like?
 
-The first checkpoint: finish build the frame structure for the project, like the homepage and UI.
+The first checkpoint: finish build the frame structure for the project, like the homepage and UI. I will make itrip homepage, sign up and log in page, feedback page and other website page if necesseary. 
 
-The second checkpoint: create specific functionality and debug.
+The second checkpoint: I will create specific functionality, put Google map API and Yelp API into the project and build research function.
+The third checkpoint: Combine the functions and build guide system, create travel advice and show it to the user.
 
 Final project: a complete tourism guiding, sharing, and posting system.
 
