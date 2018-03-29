@@ -20,12 +20,13 @@ It is similar to the TripAdvisor or Yelp.
 
 3.Project Schedule- what will you have done at each checkpoint? What will the final project look like?
 
-The first checkpoint: finish build the frame structure for the project, like the homepage and UI. I will make itrip homepage, sign up and log in page, feedback page and other website page if necesseary. 
+The first checkpoint: finish build the frame structure for the project, like the homepage and UI. I will make itrip homepage, sign up and log in page, feedback page (the data will store in MySQL database) and other website page if necesseary. 
 
-The second checkpoint: I will create specific functionality, put Google map API and Yelp API into the project and build research function.
+The second checkpoint: I will create specific functionality, put Google map API and Yelp API into the project and build research function. I will let sign up and log in works.
+
 The third checkpoint: Combine the functions and build guide system, create travel advice and show it to the user.
 
-Final project: a complete tourism guiding, sharing, and posting system.
+Final project: a complete tourism guiding and sharing system.
 
 4.Project Justification - why is your project interesting?
 
